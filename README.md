@@ -83,7 +83,5 @@
     <a href="#">
         <img alt="SQL Server"
              src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Oracle"
-             src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
+   
 </p>
